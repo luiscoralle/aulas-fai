@@ -1,4 +1,5 @@
 <?php
+# ver la opcion de hacer la descarga directamente desde spreadsheet
 
 $row = $_GET['row'];
 $col = $_GET['col'];
